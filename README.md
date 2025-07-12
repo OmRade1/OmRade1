@@ -1,83 +1,93 @@
+<!-- PROFILE HEADER GIF -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Header GIF" />
 </div>
 
-###
+---
+
+<h1 align="center">Hi 👋, I'm Om Ashok Rade</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast | GATE DA 2025 Qualified</h3>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/om-rade-588416249/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:om.rade28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:om.rade28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/om_rade28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/u/Om_Rade/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Om_Rade/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="leetcode logo" />
+  <a href="https://www.hackerrank.com/profile/om_rade28">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
 
+---
 
-###
+## 🧠 About Me
+- 🎓 B.Tech in CSE | GATE DA 2025 Qualified
+- 💡 Passionate about **AI, Machine Learning, and Analytics**
+- ⚙️ Technologies I use: `Python`, `Scikit-learn`, `Pandas`, `PyTorch`, `Power BI`, `SQL`
+- 🧪 Constant learner & open to collaboration on AI/ML projects
+- 🛠️ Tools: `Jupyter`, `VS Code`, `Git`, `Flask`, `Anaconda`
+- 📚 Currently exploring **Generative AI and LLMs**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmRade1.OmRade1&"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmRade1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmRade1&layout=compact&theme=radical" />
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🔥 GitHub Streak
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OmRade1&theme=dark&hide_border=false&border_radius=5" />
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 📁 Featured Projects
 
-<p align="left">Hi there 👋 I'm Om Ashok Rade<br>🎯 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast<br>🎓 Qualified GATE DA 2025<br>💻 Skilled in Python, Data Science, Machine Learning, and Data Analysis<br><br>💫 About Me<br>📚 Pursuing B.Tech in Computer Science Engineering<br><br>🔍 Passionate about extracting insights from data and building intelligent systems<br><br>🚀 Constantly learning and exploring new technologies in AI, Machine Learning, and Analytics<br><br>🛠️ Skills<br>Programming Languages: Python | Java | C++ | C<br><br>Data Analysis Tools: Power BI | Pandas | NumPy<br><br>Machine Learning Frameworks: Scikit-learn | TensorFlow (Basics) | PyTorch (Learning)<br><br>Databases: SQL (Basic)<br><br>Tools & Platforms: Jupyter Notebook | Visual Studio Code | Git | GitHub<br><br>📈 Projects<br>LipSync - Aid for Hearing Impaired<br>Deep learning-based visual speech recognition system using 3D CNNs and BiLSTMs.<br><br>Image Classifier - Cats and Dogs<br>Built a CNN-based model for binary image classification.<br><br>Chatbot Creation and Analysis<br>Designed and analyzed chatbot performance using CNN and LSTM architectures.<br><br>Text-to-Speech Application<br>Developed a GUI-based TTS app using Tkinter and Pyttsx3.<br><br>More projects coming soon... 🚀<br><br>🌟 Achievements<br>🎖️ Qualified GATE DA 2025 with a strong performance<br><br>📜 Completed certifications in Machine Learning and Data Science from Google Cloud and IBM (via Coursera)<br><br>📫 Let's Connect!<br>🔗 LinkedIn<br><br>📧 Email: om.rade28@gmail.com</p>
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **[LipSync - Aid for Hearing Impaired](#)** | 3D CNN + BiLSTM for visual speech recognition | `Deep Learning`, `Python`, `OpenCV` |
+| **Image Classifier - Cats & Dogs** | CNN for image classification | `TensorFlow`, `Keras`, `Python` |
+| **Chatbot Analysis** | NLP Chatbot using CNN/LSTM | `NLP`, `TensorFlow`, `Tkinter` |
+| **Text-to-Speech App** | GUI app for speech synthesis | `Python`, `Pyttsx3`, `Tkinter` |
 
-###
+🛠 *More exciting projects coming soon...*
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" />
-</div>
+## 💼 Certifications
+- 🧠 Machine Learning – **Google Cloud**
+- 📊 Data Science – **IBM (Coursera)**
+- 📈 Power BI, Python for Data Analysis, SQL (in progress)
 
+---
 
-###
+## 💬 Let's Collaborate!
+> 💡 If you’re working on data-driven products or ML/AI systems, I’d love to contribute & learn!  
+> 📬 Reach me anytime: **om.rade28@gmail.com**
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
-
-<br clear="both">
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmRade1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmRade1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=OmRade1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,html,css,javascript,tensorflow,pytorch,pandas,numpy,vscode,anaconda,mysql,powerbi" />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmRade1.OmRade1" />
+</div>
